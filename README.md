@@ -5,3 +5,5 @@
 <img src = "Bird.jpg">
 1. ABCD
 2. XYZ
+* Python
+* JAVA
